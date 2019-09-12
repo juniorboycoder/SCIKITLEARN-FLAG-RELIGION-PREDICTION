@@ -1,5 +1,5 @@
 # SCIKITLEARN-FLAG-RELIGION-PREDICTION
-Predicting a religion of a country based on its flag attributes, using python scikitlearn, pandas , numpy and matplotlib
+#PROJECT: Predicting a religion of a country based on its flag attributes, using python scikitlearn, pandas , numpy and matplotlib
 
 1. TItle: Flag database
 
@@ -75,20 +75,7 @@ Predicting a religion of a country based on its flag attributes, using python sc
 
 
 
-
-
-
-
-
-
-
-
-
-Load in dataset
-
-
-
-THE FLAG.DATA FILE CCONTAINS THE LIST OF ALL COUNTRIES AND THERE FEATURES ARRAY.
+NOTE:THE FLAG.DATA FILE CONTAINS THE LIST OF ALL COUNTRIES AND THERE FEATURES ARRAY.
 
 
 
